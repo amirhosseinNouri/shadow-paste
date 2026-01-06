@@ -158,7 +158,7 @@ export default function Home() {
             Config Share
           </h1>
           <p className="text-muted-foreground text-sm md:text-base">
-            Encode and decode configurations. Shareable, secure, offline-ready.
+            🥷 Shadow Paste
           </p>
         </div>
 
