@@ -1,6 +1,6 @@
 {
-  "name": "Config Share",
-  "short_name": "ConfigShare",
+  "name": "Shadow Paste",
+  "short_name": "Shadow Paste",
   "description": "Encode and decode proxy configurations easily",
   "start_url": "/",
   "display": "standalone",
