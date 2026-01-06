@@ -109,9 +109,8 @@ export default function Home() {
 
     try {
       await navigator.share({
-        title: "Config Share",
-        text: title,
-        url: window.location.href,
+        title: "Encoded Configuration",
+        text: text, // Share the encoded text itself, not the app URL
       })
     } catch (error) {
       if (error instanceof Error && error.message !== "Share canceled") {
